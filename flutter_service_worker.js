@@ -9,14 +9,14 @@ const RESOURCES = {
 "assets/assets/images/logo.png": "bdec4dbfe4185099fbe3cef428eafadb",
 "assets/FontManifest.json": "c908abcbdd6f4fa1f2373343a5905822",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/NOTICES": "f299bcaa90aff2c5a6fbe3d14283b48a",
+"assets/NOTICES": "4d650c697d2e801843bfa38ca166041b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "3fcc784eda2caee255140cbb2cff4bcd",
 "/": "3fcc784eda2caee255140cbb2cff4bcd",
-"main.dart.js": "b254cb7deeff195018b563cfd3fad629",
+"main.dart.js": "e1b15b0fde2bdd6ef0323a6044bdd88d",
 "manifest.json": "6bdbd005d57b0f2922c84a7a1aeea411"
 };
 
